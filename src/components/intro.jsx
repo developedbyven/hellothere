@@ -51,7 +51,7 @@ function Intro() {
       </div>
     </div>
 
-    <div className='md:h-auto md:w-auto md:object-cover md:pt-64 md:absolute top-0 3xl:hidden'> 
+    <div className='flex md:h-auto md:w-auto md:object-cover md:pt-64 md:absolute top-0 3xl:hidden'> 
               <img class="md:h-96 md:w-96 md:bg-black " src={Me} alt ="" className="lightside" />    
     </div>
 
