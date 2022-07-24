@@ -51,11 +51,11 @@ function Intro() {
       </div>
     </div>
 
-    <div className='flex md:h-auto md:w-auto md:object-cover md:pt-64 md:absolute top-0 3xl:hidden'> 
+    <div className='md:!flex md:h-auto md:w-auto md:object-cover md:pt-64 md:absolute top-0 3xl:!hidden'> 
               <img class="md:h-96 md:w-96 md:bg-black " src={Me} alt ="" className="lightside" />    
     </div>
 
-    <div className='w-1/2 flex h-screen items-center pr-[90px] justify-center xl:w-full md:h-auto md:w-auto md:object-cover md:items-center md:justify-center md:absolute md:p-24 xl:absolute top-0 xl:p-10 md:hidden'> 
+    <div className='w-1/2 flex h-screen items-center pr-[90px] justify-center xl:w-full xl:absolute top-0 xl:p-10 md:hidden'> 
               <img class="h-96 w-96 bg-black " src={Me} alt ="" className="lightside" />    
    </div>
        
