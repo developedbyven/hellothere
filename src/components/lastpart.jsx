@@ -18,7 +18,7 @@ function Lastpart () {
                      I know what I must and wanna do better.    
                </div>
 
-          <div class="flex w-full h-48 bg-black text-white items-center justify-center flex-col absolute mt-[761px] 2xl:w-full 2xl:mt-[1600px] sm:flex sm:items-center sm:justify-center">
+          <div class="flex w-full h-48 bg-black text-white items-center justify-center flex-col absolute mt-[761px] 2xl:w-full  xl:mt-[1510px] sm:flex sm:items-center sm:justify-center">
                     
                  <div className="pt-2 text-2xl md:text-xl">Get in touch at &#8595;</div>
                           <div class="font-medium text-4xl text-purple-500 hover:text-slate-300 hover:ease-out duration-150 mt-1 md:text-2xl" onClick={() => {
